@@ -1,14 +1,1 @@
-<?xml version="1.0"?>
-<svg width="170" height="50" xmlns="http://www.w3.org/2000/svg">
- <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
- <g>
-  <rect fill="none" id="canvas_background" height="52" width="172" y="-1" x="-1"/>
-  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
-   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
-  </g>
- </g>
- <g>
-  <text style="cursor: move;" font-weight="normal" xml:space="preserve" text-anchor="left" font-family="'Trebuchet MS', Gadget, sans-serif" font-size="48" id="svg_1" y="48.5" x="2.5" stroke-width="0" stroke="#000" fill="#e0e0e0">opem</text>
-  <text style="cursor: move;" font-weight="bold" font-style="normal" xml:space="preserve" text-anchor="left" font-family="'Trebuchet MS', Gadget, sans-serif" font-size="48" id="svg_2" y="48.5" x="100.5" stroke-width="0" stroke="#000" fill="#93b5ff">Meet</text>
- </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="170" height="50"><g><rect id="canvas_background" width="172" height="52" x="-1" y="-1" fill="none"/><g id="canvasGrid" width="100%" height="100%" x="0" y="0" display="none"><rect width="100%" height="100%" x="0" y="0" fill="url(#gridpattern)" stroke-width="0"/></g></g><g><text id="svg_1" x="2.5" y="48.5" fill="#e0e0e0" stroke="#000" stroke-width="0" font-family="'Trebuchet MS', Gadget, sans-serif" font-size="48" font-weight="normal" text-anchor="left" xml:space="preserve" style="cursor:move">opem</text><text id="svg_2" x="100.5" y="48.5" fill="#93b5ff" stroke="#000" stroke-width="0" font-family="'Trebuchet MS', Gadget, sans-serif" style="cursor:move" font-size="48" font-style="normal" font-weight="bold" text-anchor="left" xml:space="preserve">Meet</text></g></svg>
